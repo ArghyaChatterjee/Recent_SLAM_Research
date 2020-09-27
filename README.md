@@ -1,7 +1,8 @@
 
 # Recent_SLAM_Research_2020
-【回馈社区】跟踪SLAM前沿动态[2019](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2019.md), [2018版](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2018.md) .去年大概收录了500篇关于SLAM的论文，因为本人在企业重点研究的是VSLAM以及多传感器融合，所以并没有把全部论文精读，难免有漏的或者差的。今年重点是求精以及做好分类，继续做好本圈儿的服务工作。
-欢迎在Issues里发布招聘信息。
+Tracking the frontiers of SLAM in [2019](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2019.md), [2018](https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2018.md) .
+[Feedback to the community]. Last year, about 500 papers on SLAM were included. Because I focused on VSLAM and multi-sensor fusion in the enterprise, I did not read all the papers intensively, and it is inevitable that there are omissions Or bad. This year, the focus is on refinement and classification, and continue to do a good job in the service of this circle. 
+Welcome to post recruitment information in Issues.
 ### ------------ ICRA 2020 
 #### OmniSLAM: Omnidirectional Localization and Dense Mapping for Wide-Baseline Multi-Camera Systems
 #### Real-Time Graph-Based SLAM with Occupancy Normal Distributions Transforms
